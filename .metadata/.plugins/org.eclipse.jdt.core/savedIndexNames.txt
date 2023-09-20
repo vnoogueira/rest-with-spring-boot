@@ -5,7 +5,6 @@ INDEX VERSION 1.134+/Users/vitorferreira/Documents/Estudos/Java/rest-with-spring
 2118563068.index
 3491338651.index
 311255142.index
-912789733.index
 4268097995.index
 2686193799.index
 3604501256.index

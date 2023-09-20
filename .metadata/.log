@@ -177,3 +177,9 @@ Binding(COMMAND+SHIFT+C,
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-09-19 23:11:02.890
 !MESSAGE Classpath changed for project: rest-with-spring-boot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-09-19 23:27:51.341
+!MESSAGE Classpath changed for project: rest-with-spring-boot
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-09-19 23:27:51.739
+!MESSAGE Classpath changed for project: rest-with-spring-boot
